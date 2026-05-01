@@ -1,6 +1,3 @@
-/**
- * The Rock 🪨, Paper 🧻, or Scissors ✂️ Game
- * This game will be played between the computer and human. Once Human will select Rock, Paper, or Scissors and in the next turn the computer will select Rock, Paper, or Scissors.
 
 function rockPaperScissorsGame() {
     console.log("Getting Started With the Rock 🪨, Paper 🧻, or Scissors ✂️ Game");
